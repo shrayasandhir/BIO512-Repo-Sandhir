@@ -10,9 +10,8 @@ y<<-25
 
 ## Question 2
 He said, “I’m Garth Marenghi. Author. Dreamweaver. Visionary. Plus actor.” In R including the quoation marks: 
-```R
-He said, "I’m Garth Marenghi. Author. Dreamweaver. Visionary. Plus actor."
-```
+
+He said, \"\"I’m Garth Marenghi. Author. Dreamweaver. Visionary. Plus actor.\"\"
 
 ## Question 3
 
