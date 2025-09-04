@@ -18,6 +18,7 @@ He said, “I’m Garth Marenghi. Author. Dreamweaver. Visionary. Plus actor.”
 cat('He said, "I'm Garth Marenghi, Author, Dreamweaver. Visionary, Plus actor."')
 #I typed this instead of copying and pasting - therefore the quotation marks were not curly
 ```
+
 ## Question 3
 He said, “I’m Garth Marenghi. Author\Dreamweaver\Visionary. Plus actor.” would be:
 
