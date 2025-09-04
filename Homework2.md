@@ -14,16 +14,19 @@ y=25
 ## Question 2
 He said, “I’m Garth Marenghi. Author. Dreamweaver. Visionary. Plus actor.” In R including the quoation marks: 
 ```R
-'He said, "I’m Garth Marenghi. Author. Dreamweaver. Visionary. Plus actor."'
+'He said, ”I’m Garth Marenghi. Author. Dreamweaver. Visionary. Plus actor.”'
 #this works in R becuase of the curly quotes
 ```
+
 ## Question 3
 He said, “I’m Garth Marenghi. Author\Dreamweaver\Visionary. Plus actor.” would be:
 
 ```R
 'He said, “I’m Garth Marenghi. Author\\Dreamweaver\\Visionary. Plus actor.”'
+
 #double blackslash to indicate one backslash. Includes the single "'" becuase of the curly quotation marks
 ```
+
 ## Question 4
 ```R
 c(1,2,3)
